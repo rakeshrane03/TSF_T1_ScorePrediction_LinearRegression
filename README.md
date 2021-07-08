@@ -1,1 +1,1 @@
-# TSF_Internshi_project
+# Score prediction using simple Linear regression
